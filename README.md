@@ -1,0 +1,4 @@
+BitmapMC
+========
+
+bitmap for movieclip
